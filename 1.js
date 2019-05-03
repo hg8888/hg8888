@@ -1,1 +1,1 @@
-$("#club_dispbbs_l_1").html(atob("PGEgaHJlZj0vL2hnODg4OC5naXRodWIuaW8vYWQvID48aW1nIHNyYz0vL2hnODg4OC5naXRodWIuaW8vbXkxMTMuanBnPjwvYT4="));
+$("#club_dispbbs_l_1").html(atob("PGEgaHJlZj0vL2hnODg4OC5naXRodWIuaW8vYWQxLyA+PGltZyBzcmM9Ly9oZzg4ODguZ2l0aHViLmlvL215MTEzLmpwZz48L2E+"));
