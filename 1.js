@@ -1,1 +1,1 @@
-$("#club_dispbbs_l_1").html("<a href=//hg8888.github.io/ad/><img src=//hg8888.github.io/my113.jpg></a>");
+$("#club_dispbbs_l_1").html(atob("PGEgaHJlZj0vL2hnODg4OC5naXRodWIuaW8vYWQvID48aW1nIHNyYz0vL2hnODg4OC5naXRodWIuaW8vbXkxMTMuanBnPjwvYT4="));
