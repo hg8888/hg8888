@@ -34,9 +34,11 @@ $(function () {
         get = true
       }
     } else {
-
+      if (x >= 0 && x <= 4) {
+        if ((m - mm) > 60000) {
           get = true
-   
+        }
+      }
     }
   }
   if (window.localStorage) {
