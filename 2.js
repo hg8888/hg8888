@@ -27,12 +27,12 @@ jQuery(function () {
     mm = window.localStorage['mm']
   }
   if (x > 19 && x < 22) {
-    if ((m - mm) > 1800000) {
+    if ((m - mm) > 600000) {
         get = true
       }
   } else {
     if (x >= 22 && x <= 23) {
-      if ((m - mm) > 600000) {
+      if ((m - mm) > 300000) {
         get = true
       }
     } else {
