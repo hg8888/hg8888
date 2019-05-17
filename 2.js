@@ -26,13 +26,13 @@ jQuery(function () {
     mx = window.localStorage['mx'];
     mm = window.localStorage['mm']
   }
-  if (x > 19 && x < 22) {
+  if (x > 4 && x < 20) {
     if ((m - mm) > 600000) {
         get = true
       }
   } else {
-    if (x >= 22 && x <= 23) {
-      if ((m - mm) > 300000) {
+    if (x >= 20 && x <= 23) {
+      if ((m - mm) > 60000) {
         get = true
       }
     } else {
