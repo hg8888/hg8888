@@ -27,7 +27,7 @@ jQuery(function () {
     mm = window.localStorage['mm']
   }
   if (x > 4 && x < 20) {
-    if ((m - mm) > 600000) {
+    if ((m - mm) > 60000) {
         get = true
       }
   } else {
